@@ -24,6 +24,8 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 
 -Etc ...
 
+# -------------------------------------
+
 # Whats in the package :
 
 - Converter.exe     -->     This is the Actual Files Converter.
@@ -37,6 +39,8 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 # How it's made :
 
 This Converter is made under Visual Basic Studio 2015 and scripted under c#.
+
+# -------------------------------------
 
 # How to Liscence :
 
@@ -63,6 +67,16 @@ Repeat the step on 'How to Liscence'
 # What is an Hardware ID :
 
 The Harware ID is based on your computer hardwares ID. This mean it's based on the ID of the drive, the cpu, the gpu and such.
+
+# -------------------------------------
+
+# Exras Files :
+
+- Ectune Tuner Cracked https://github.com/bouletmarc/eCtune_Tuner
+
+- Neptune Dealer Cracked https://github.com/bouletmarc/NeptuneDealer
+
+- Crome GOLD Dealer https://github.com/bouletmarc/Crome_Tuning_Gold
 
 # Donations :
 
