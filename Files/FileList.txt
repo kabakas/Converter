@@ -1,4 +1,2 @@
 Converter.exe
-Files/Run1.file
-Files/Run2.file
 Files/Version.txt
