@@ -1,8 +1,0 @@
-{
-    "name": "bouletmarc/converter",
-    "description": "Ectune / Neptune Converter",
-    "require": {
-        "doctrine/common": "*"
-    },
-    "minimum-stability": "dev"
-}
