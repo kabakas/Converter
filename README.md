@@ -72,7 +72,7 @@ The Harware ID is based on your computer hardwares ID. This mean it's based on t
 
 # -------------------------------------
 
-# Exras Files :
+# Extras Files :
 
 - Ectune Tuner Cracked https://github.com/bouletmarc/eCtune_Tuner
 
