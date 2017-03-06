@@ -37,8 +37,6 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 
 - Liscencer.exe     -->     This tool is used to liscence your computer.
 
-- Updater.exe       -->     This tool is used to Update/Auto Update the Converter.
-
 - Files             -->     This folder include Logs, Settings, Loading and such Files.
 
 # How it's made :
